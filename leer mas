@@ -1,0 +1,10 @@
+#include <iostream>
+#include <stdlib>
+
+int main (){
+
+  cout<<"Este es un mensaje en C++<<endl;
+  
+  system("Pause");
+  return 0;
+}
